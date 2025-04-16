@@ -47,7 +47,3 @@ Currently building:
 ---
 
 *“Keep it lean. Build what matters.”*
-
-BryanH-81/BryanH-81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
