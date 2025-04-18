@@ -40,7 +40,7 @@ Currently building:
 
 ##  Contact
 
-- Email: **founder@aigivr.com**
+- Email: founder@aigivr.com
 - Website: **aigivr.com**
 - Open to code collaborations, and early access testers
 - Especially interested in conversations around healthcare tech, secure app dev, and caregiver support tools
