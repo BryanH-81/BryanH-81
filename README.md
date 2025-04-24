@@ -1,50 +1,63 @@
-# 👋 Hey, I’m Bryan
+# Hey, I’m Bryan
 
-I’m a self-taught full-stack developer and solo founder focused on solving real-world problems through clean, secure, and efficient code.
+I’m a self-taught full-stack developer, solo founder, and US Army Veteran building tools that solve real problems — especially in healthcare and caregiving.
 
-Currently building:
+I focus on clean, secure, and efficient code with fast iteration, low overhead, and maximum real-world impact.
 
--  **Caregiver Companion** – An AI-powered app helping caregivers manage medications, vitals, schedules, and notes — with privacy, usability, and speed at its core.
--  **CM App (Case Management)** – A secure Angular-based tool for caregiving agencies to track client info, visits, contacts, and compliance documentation.
+---
 
----  
+## Currently Building
 
-##  Tech Stack
+**Caregiver Companion**  
+An AI-powered web and mobile app that helps caregivers manage medications, vitals, schedules, notes, contacts, and reminders — with a privacy-first architecture and encrypted local storage.
+
+**CM App (Case Management)**  
+A secure Angular-based system for caregiving agencies to manage client information, visits, contact logs, and compliance documentation. Designed for small teams that need simplicity, speed, and accountability.
+
+---
+
+## Tech Stack
 
 **Frontend:** React, Angular, TypeScript, Material UI  
 **Backend:** Node.js, Express, PostgreSQL  
 **Dev Tools:** Git, PowerShell, Notion, VS Code  
-**Other:** JWT Auth, Encrypted localStorage, RESTful APIs, Routing, Dark Mode Toggle, Responsive Design  
+**Other:** JWT Auth, Encrypted localStorage, RESTful APIs, Routing, Dark Mode Toggle, Responsive Design
 
 ---
 
-##  Recent Work Highlights
+## Recent Work Highlights
 
--  Encrypted storage for sensitive medical and client data  
--  Custom scheduling + reminders interface with delete and edit support  
--  Reusable components with dynamic theming (light/dark mode)  
--  Angular routing with live reload and Hot Module Replacement (HMR)  
--  Full CRUD for client records, contact logs, and case notes  
-
----
-
-##  Background
-
-- US Army Veteran
-- Former Healthcare Coordinator & Veteran Support Specialist  
-- Nonprofit Treasurer (501(c)(3) youth hockey org)  
-- Now building software solo — from backend APIs to polished UIs  
-- Early riser. Fast learner. Lean operator.
+- Built encrypted storage layers for medication, vitals, notes, and contacts  
+- Developed full scheduling + reminder functionality with task CRUD  
+- Implemented reusable component architecture with dynamic light/dark theming  
+- Completed full CRUD modules and routing in Angular with HMR  
+- Created real-time responsive UI for managing client and caregiver data  
+- Integrated NIH RxNorm API for medication autocomplete  
+- Deployed local AI assistant features for task support and caregiver help  
+- Maintained modular GitHub repos with version control and detailed Notion documentation
 
 ---
 
-##  Contact
+## Background
 
-- Email: founder@aigivr.com
-- Website: [aigivr.com](https://aigivr.com)
-- Open to code collaborations, and early access testers
-- Especially interested in conversations around healthcare tech, secure app dev, and caregiver support tools
+- Built and maintain multiple full-stack apps focused on caregiver support and healthtech workflows  
+- Designed end-to-end system for caregiver case management using Angular, Material, and Node.js  
+- US Army Veteran with experience supporting vulnerable populations as a Veteran Support Specialist  
+- Former Healthcare Coordinator familiar with real-world agency workflows and compliance  
+- Nonprofit Treasurer (501(c)(3) youth hockey organization), handling tax filing and financial compliance  
+- Focused on shipping functional MVPs, securing data, and iterating fast with limited resources
+
+---
+
+## Contact
+
+**Email:** founder@aigivr.com  
+**Website:** [aigivr.com](https://aigivr.com)  
+
+Open to collaborations, early testers, or feedback from other healthtech builders and founders.  
+Always up for conversations around secure app development, caregiver support, and building practical tools in underserved markets.
 
 ---
 
 *“Keep it lean. Build what matters.”*
+
