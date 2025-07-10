@@ -8,21 +8,6 @@ I focus on clean, secure, and efficient code with fast iteration, low overhead, 
 
 ## Currently Building
 
-**Caregiver Companion**  
-An AI-powered web and mobile app that helps caregivers manage medications, vitals, schedules, notes, contacts, and reminders — with a privacy-first architecture and encrypted local storage.
-
-**CM App (Case Management)**  
-A secure Angular-based system for caregiving agencies to manage client information, visits, contact logs, and compliance documentation. Designed for small teams that need simplicity, speed, and accountability.
-
----
-
-## Tech Stack
-
-**Frontend:** React, Angular, TypeScript, Material UI  
-**Backend:** Node.js, Express, PostgreSQL  
-**Dev Tools:** Git, PowerShell, Notion, VS Code  
-**Other:** JWT Auth, Encrypted localStorage, RESTful APIs, Routing, Dark Mode Toggle, Responsive Design
-
 ---
 
 ## Recent Work Highlights
@@ -51,10 +36,8 @@ A secure Angular-based system for caregiving agencies to manage client informati
 
 ## Contact
 
-**Email:** founder@aigivr.com  
-**Website:** [aigivr.com](https://aigivr.com)  
+**Email:** bryan.hansen281@gmail.com  
 
-Open to collaborations, early testers, or feedback from other healthtech builders and founders.  
 Always up for conversations around secure app development, caregiver support, and building practical tools in underserved markets.
 
 ---
