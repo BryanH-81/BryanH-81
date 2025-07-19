@@ -1,6 +1,6 @@
 # Hey, I’m Bryan
 
-I’m a self-taught full-stack developer, solo founder, and US Army Veteran building tools that solve real problems — especially in healthcare and caregiving.
+I’m a self-taught full-stack developer, solo founder, and US Army Veteran building tools that solve real problems.
 
 I focus on clean, secure, and efficient code with fast iteration, low overhead, and maximum real-world impact.
 
@@ -8,18 +8,17 @@ I focus on clean, secure, and efficient code with fast iteration, low overhead, 
 
 ## Currently Building
 
+Message me at bryan.hanse281@gmail.com for more information.
+
 ---
 
 ## Recent Work Highlights
 
 - Built encrypted storage layers for medication, vitals, notes, and contacts  
 - Developed full scheduling + reminder functionality with task CRUD  
-- Implemented reusable component architecture with dynamic light/dark theming  
 - Completed full CRUD modules and routing in Angular with HMR  
 - Created real-time responsive UI for managing client and caregiver data  
-- Integrated NIH RxNorm API for medication autocomplete  
 - Deployed local AI assistant features for task support and caregiver help  
-- Maintained modular GitHub repos with version control and detailed Notion documentation
 
 ---
 
