@@ -1,45 +1,58 @@
 # Hey, I’m Bryan
 
-I’m a self-taught full-stack developer, solo founder, and US Army Veteran building tools that solve real problems.
+I’m a self-taught full-stack developer, solo founder, and US Army Veteran building AI-powered tools that solve real problems for underserved industries.
 
-I focus on clean, secure, and efficient code with fast iteration, low overhead, and maximum real-world impact.
+I focus on fast iteration, clean code, and practical MVPs that work in the real world — not just pitch decks.
 
 ---
 
 ## Currently Building
 
-Message me at bryan.hanse281@gmail.com for more information.
+🚀 **[Chefluent](https://chefluent.com)** – An AI-powered platform that helps restaurants instantly generate branded, engaging social media posts from real menu items and events.
+
+Built with:
+- Next.js App Router + TypeScript + Tailwind CSS  
+- Supabase (auth + database)  
+- OpenAI (GPT-4o) + Stripe integration  
+
+Chefluent is in pre-launch beta with a mobile-friendly UI, modular prompt system, and tiered subscriptions. I’m actively testing with local restaurants and refining the core product.
+
+💬 Message me at **bryan@chefluent.com** if you want a demo or to join the beta.
 
 ---
 
 ## Recent Work Highlights
 
-- Built encrypted storage layers for medication, vitals, notes, and contacts  
-- Developed full scheduling + reminder functionality with task CRUD  
-- Completed full CRUD modules and routing in Angular with HMR  
-- Created real-time responsive UI for managing client and caregiver data  
-- Deployed local AI assistant features for task support and caregiver help  
+- Designed and built **Chefluent** from the ground up as a solo dev  
+- Modularized AI prompt layers for flexible, reusable content generation  
+- Implemented full Supabase auth system with secure email reset flow  
+- Developed Stripe-based tiered subscription system with admin controls  
+- Built A/B testing framework for comparing AI prompt output quality  
+- Created real-time UI for generating and saving AI social posts  
 
 ---
 
 ## Background
 
-- Built and maintain multiple full-stack apps focused on caregiver support and healthtech workflows  
-- Designed end-to-end system for caregiver case management using Angular, Material, and Node.js  
-- US Army Veteran with experience supporting vulnerable populations as a Veteran Support Specialist  
-- Former Healthcare Coordinator familiar with real-world agency workflows and compliance  
-- Nonprofit Treasurer (501(c)(3) youth hockey organization), handling tax filing and financial compliance  
-- Focused on shipping functional MVPs, securing data, and iterating fast with limited resources
+- Veteran founder with a background in nonprofit operations and healthcare coordination  
+- Built and maintained full-stack caregiver support systems using Angular and Node.js  
+- Hands-on experience with HIPAA-adjacent workflows and real-world agency logistics  
+- Former Treasurer of a 501(c)(3) youth hockey nonprofit — led filings, compliance, and ops  
+- Strong focus on lean development, system security, and user empathy  
 
 ---
 
 ## Contact
 
-**Email:** bryan.hansen281@gmail.com  
+📬 **Email:** bryan@chefluent.com  
 
-Always up for conversations around secure app development, caregiver support, and building practical tools in underserved markets.
+Let’s talk about:
+- AI for small business  
+- Secure, practical MVPs  
+- Lean solo dev life  
+- Local-first tech  
+- And building tools people actually use
 
 ---
 
-*“Keep it lean. Build what matters.”*
-
+_“Keep it lean. Build what matters.”_
