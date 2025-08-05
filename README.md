@@ -37,7 +37,7 @@ Chefluent is in pre-launch beta with a mobile-friendly UI, modular prompt system
 - Veteran founder with a background in nonprofit operations and healthcare coordination  
 - Built and maintained full-stack caregiver support systems using Angular and Node.js  
 - Hands-on experience with HIPAA-adjacent workflows and real-world agency logistics  
-- Former Treasurer of a 501(c)(3) youth hockey nonprofit — led filings, compliance, and ops  
+- Treasurer of a 501(c)(3) youth hockey nonprofit — led filings, compliance, and ops  
 - Strong focus on lean development, system security, and user empathy  
 
 ---
