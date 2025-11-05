@@ -8,7 +8,7 @@ I focus on fast iteration, clean code, and practical MVPs that work in the real 
 
 ## Currently Building
 
-🚀 **[Chefluent](https://chefluent.com)** – An AI-powered platform that helps restaurants instantly generate branded, engaging social media posts from real menu items and events.
+**[Chefluent](https://chefluent.com)** – An AI-powered platform that helps restaurants instantly generate branded, engaging social media posts from real menu items and events.
 
 Built with:
 - Next.js App Router + TypeScript + Tailwind CSS  
@@ -44,7 +44,7 @@ Chefluent is in pre-launch beta with a mobile-friendly UI, modular prompt system
 
 ## Contact
 
-📬 **Email:** bryan@chefluent.com  
+**Email:** bryan@chefluent.com  
 
 Let’s talk about:
 - AI for small business  
