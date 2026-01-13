@@ -1,58 +1,72 @@
-# Hey, I’m Bryan
+Hey, I’m Bryan
 
-I’m a self-taught full-stack developer, solo founder, and US Army Veteran building AI-powered tools that solve real problems for underserved industries.
+I’m an independent researcher, systems thinker, and U.S. Army Veteran working on methodological tools for analyzing complex explanatory claims.
 
-I focus on fast iteration, clean code, and practical MVPs that work in the real world — not just pitch decks.
+Currently Working On
 
----
+CEDA — Cosmological Explanation Diagnostic Audit
 
-## Currently Building
+CEDA is a diagnostic framework for early-universe cosmology. It is not a cosmological model, not a mechanism, and not an alternative to inflation or ΛCDM.
 
-**[Chefluent](https://chefluent.com)** – An AI-powered platform that helps restaurants instantly generate branded, engaging social media posts from real menu items and events.
+Its purpose is narrow and deliberate:
+to audit early-universe proposals for explanatory provenance under strict, conservation-honest accounting.
 
-Built with:
-- Next.js App Router + TypeScript + Tailwind CSS  
-- Supabase (auth + database)  
-- OpenAI (GPT-4o) + Stripe integration  
+CEDA asks a simple but unforgiving question:
 
-Chefluent is in pre-launch beta with a mobile-friendly UI, modular prompt system, and tiered subscriptions. I’m actively testing with local restaurants and refining the core product.
+Where does the claimed physical behavior actually come from—dynamics, or description?
 
-💬 Message me at **bryan@chefluent.com** if you want a demo or to join the beta.
+The framework provides:
 
----
+A standardized Model Card for making assumptions explicit
 
-## Recent Work Highlights
+A stress-test suite that separates genuine dynamics from descriptive reweighting
 
-- Designed and built **Chefluent** from the ground up as a solo dev  
-- Modularized AI prompt layers for flexible, reusable content generation  
-- Implemented full Supabase auth system with secure email reset flow  
-- Developed Stripe-based tiered subscription system with admin controls  
-- Built A/B testing framework for comparing AI prompt output quality  
-- Created real-time UI for generating and saving AI social posts  
+Clear diagnostic categories (mechanism, reinterpretation, descriptive instability, underspecification)
 
----
+A failure catalogue that names recurring conceptual pathologies without rhetoric
 
-## Background
+CEDA emerged from internal null results showing that horizon-mediated accessibility reconfiguration, when treated honestly as bookkeeping, does not generically produce inflation-like behavior. Rather than rescuing the idea, the framework pivots and formalizes the diagnostic lesson.
 
-- Veteran founder with a background in nonprofit operations and healthcare coordination  
-- Built and maintained full-stack caregiver support systems using Angular and Node.js  
-- Hands-on experience with HIPAA-adjacent workflows and real-world agency logistics  
-- Treasurer of a 501(c)(3) youth hockey nonprofit — led filings, compliance, and ops  
-- Strong focus on lean development, system security, and user empathy  
+The result is an audit tool designed to clarify—not compete with—successful cosmological mechanisms.
 
----
+Status: For external review
 
-## Contact
+What I’m Focused On
 
-**Email:** bryan@chefluent.com  
+Enforcing conservation-honest bookkeeping in effective descriptions
 
-Let’s talk about:
-- AI for small business  
-- Secure, practical MVPs  
-- Lean solo dev life  
-- Local-first tech  
-- And building tools people actually use
+Distinguishing dynamics from descriptive artifacts
 
----
+Diagnosing inflation-mimicking constructions without appealing to observational fit
 
-_“Keep it lean. Build what matters.”_
+Clarifying why successful inflationary models actually require added structure
+
+Building reusable diagnostic language for referees, reviewers, and model builders
+
+Background
+
+U.S. Army Veteran
+
+Experience building and maintaining complex, constraint-heavy systems
+
+Nonprofit operations and compliance leadership (501(c)(3) treasurer)
+
+Longstanding interest in physics, philosophy of science, and explanation under constraint
+
+Strong bias toward disciplined scope, explicit assumptions, and falsifiable structure
+
+Contact
+
+Email: bryan.hansen281@gmail.com
+
+I’m interested in conversations about:
+
+Early-universe cosmology (inflationary and non-inflationary)
+
+Philosophy of physics and explanation
+
+Effective field theory, coarse-graining, and stability
+
+Methodological tools for theory evaluation
+
+Where modern cosmology quietly relies on bookkeeping
