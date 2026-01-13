@@ -2,13 +2,11 @@
 
 I’m an independent researcher, systems thinker, and U.S. Army Veteran working on methodological tools for analyzing complex explanatory claims—especially where theory, bookkeeping, and narrative tend to blur together.
 
-I’m interested in where explanations *actually* do their work, and where they quietly outsource it to assumptions.
-
 ---
 
 ## Currently Working On
 
-### CEDA — Cosmological Explanation Diagnostic Audit
+### CEDA - Cosmological Explanation Diagnostic Audit
 
 CEDA is a **diagnostic framework** for early-universe cosmology. It is **not** a cosmological model, **not** a mechanism, and **not** an alternative to inflation or ΛCDM.
 
