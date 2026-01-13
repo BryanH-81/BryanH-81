@@ -48,7 +48,6 @@ The result is an audit tool designed to clarify—not compete with—successful 
 - Experience building and maintaining complex, constraint-heavy systems  
 - Nonprofit operations and compliance leadership (501(c)(3) treasurer)  
 - Longstanding interest in physics, philosophy of science, and explanation under constraint  
-- Strong bias toward disciplined scope, explicit assumptions, and falsifiable structure  
 
 ---
 
