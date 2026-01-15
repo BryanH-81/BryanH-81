@@ -1,6 +1,5 @@
 # Hey, I’m Bryan
 
-I’m an independent researcher, systems thinker, and U.S. Army Veteran working on methodological tools for analyzing complex explanatory claims, especially where theory, bookkeeping, and narrative tend to blur together.
 
 ---
 
